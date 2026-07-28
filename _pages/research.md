@@ -6,14 +6,14 @@ classes: wide
 ---
 
 My research mainly revolves around morality and cooperation. I explore **why** individuals endorse different moral values and how these values change over historical periods and cultural contexts.
-More specifically, I'm interested in how macro-level factors, such as ecologies and institutions, influence moral values and behaviors. Religion is another central interest of mine, as it plays a key role in shaping moral values in different parts of the world.
-I use various methods, from computational to experimentation, to answer my research questions. See my [CV](/cv/) for my publications and in progress papers. 
+More specifically, I'm interested in how ecologies, cultures, and institutions influence cooperation and morality. Among cultural and institutional forces, religion stands out as a special interest of mine, given its key role in shaping moral values and who we cooperate with in different parts of the world.
+I use various methods, from computational to experimental, to answer my research questions. See my [CV](/cv/) for my publications and in progress papers. 
 
 ## Research Concentration
 
-### Ecological and Institutional Influences on Morality
+### Historical Forces Shaping Morality and Cooperation
 
-Ecologies and institutions are two macro-level factors that inevitably shape human psychology. I am interested in how ecological factors, (e.g., pathogen prevalence, population density, resource scarcity) and institutions (e.g., historical exposure to institutionalized cultural rules) influence moral values and behaviors. 
+I explore how ecologies shape culture and institutions, which in turn inevitably shape human psychology. I am interested in how ecological factors, (e.g., pathogen prevalence, population density, resource scarcity) and institutions (e.g., historical exposure to institutionalized cultural rules) influence moral values and behaviors. Moreover, I am interested how these influences vary throughout history and around the globe. 
 
 ### Evolution of Religion, Morality, and Cooperation
 

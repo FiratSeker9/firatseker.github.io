@@ -14,7 +14,7 @@ header:
      alt="Fırat Şeker"
      style="width:360px; float:right; margin-left:20px; border-radius:8px;" />
 
-I am a Ph.D. student in social psychology at the University of Massachusetts Amherst. I mainly study morality in the form of values and behavior throughout history and across different cultural contexts. 
-I'm specifically interested in how religion influences morality and how their interplay changes throughout time and places, but my research interests encompass different topics that revolve around morality. Check out the [Research page](/research/) for more details!
+I am a Ph.D. student in social psychology at the University of Massachusetts Amherst. I mainly study morality and cooperation throughout history and across different cultural contexts. 
+I'm specifically interested in how ecology, religion, and culture influences moral behavior and values, and how their interplay changes throughout time and place. Check out the [Research page](/research/) for more details!
 
 Alongside my academic work, I write stuff and make music. Check out the [Writing page](/writing/)!
